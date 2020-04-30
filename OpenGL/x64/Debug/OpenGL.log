@@ -1,0 +1,21 @@
+﻿  main.cpp
+C:\Users\conne\OneDrive - Staffordshire University\OpenGL - Model2 - Copy\OpenGL\Mesh.h(70,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\conne\OneDrive - Staffordshire University\OpenGL - Model2 - Copy\OpenGL\main.cpp(208,190): warning C4838: conversion from 'FT_Pos' to 'GLuint' requires a narrowing conversion
+C:\Users\conne\OneDrive - Staffordshire University\OpenGL - Model2 - Copy\OpenGL\main.cpp(344,22): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\conne\OneDrive - Staffordshire University\OpenGL - Model2 - Copy\OpenGL\main.cpp(408,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\conne\OneDrive - Staffordshire University\OpenGL - Model2 - Copy\OpenGL\main.cpp(717,126): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\conne\OneDrive - Staffordshire University\OpenGL - Model2 - Copy\OpenGL\main.cpp(737,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\conne\OneDrive - Staffordshire University\OpenGL - Model2 - Copy\OpenGL\main.cpp(792,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\conne\OneDrive - Staffordshire University\OpenGL - Model2 - Copy\OpenGL\main.cpp(793,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\conne\OneDrive - Staffordshire University\OpenGL - Model2 - Copy\OpenGL\main.cpp(797,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\conne\OneDrive - Staffordshire University\OpenGL - Model2 - Copy\OpenGL\main.cpp(798,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\conne\OneDrive - Staffordshire University\OpenGL - Model2 - Copy\OpenGL\main.cpp(800,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\conne\OneDrive - Staffordshire University\OpenGL - Model2 - Copy\OpenGL\main.cpp(801,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\conne\OneDrive - Staffordshire University\OpenGL - Model2 - Copy\OpenGL\main.cpp(808,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\conne\OneDrive - Staffordshire University\OpenGL - Model2 - Copy\OpenGL\main.cpp(835,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\conne\OneDrive - Staffordshire University\OpenGL - Model2 - Copy\OpenGL\main.cpp(836,65): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\conne\OneDrive - Staffordshire University\OpenGL - Model2 - Copy\OpenGL\main.cpp(847,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\conne\OneDrive - Staffordshire University\OpenGL - Model2 - Copy\OpenGL\main.cpp(848,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\conne\OneDrive - Staffordshire University\OpenGL - Model2 - Copy\OpenGL\main.cpp(942): warning C4715: 'updatePlanetCam': not all control paths return a value
+C:\Users\conne\OneDrive - Staffordshire University\OpenGL - Model2 - Copy\OpenGL\Model.h(130): warning C4715: 'Model::processMesh': not all control paths return a value
+  OpenGL.vcxproj -> C:\Users\conne\OneDrive - Staffordshire University\OpenGL - Model2 - Copy\x64\Debug\OpenGL.exe
